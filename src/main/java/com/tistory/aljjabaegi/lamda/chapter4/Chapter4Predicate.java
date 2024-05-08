@@ -1,4 +1,4 @@
-package com.tistory.aljjabaegi.lamda.chapter5;
+package com.tistory.aljjabaegi.lamda.chapter4;
 
 import java.util.function.Predicate;
 
@@ -9,7 +9,7 @@ import java.util.function.Predicate;
  * @author GEONLEE
  * @since 2024-05-08
  */
-public class Chapter5Predicate {
+public class Chapter4Predicate {
     public static void main(String[] args) {
         Predicate<String> predicate = "GEONLEE"::equalsIgnoreCase; // (String name) -> "GEONLEE".equalsIgnoreCase(name)
         boolean isGeonlee = predicate.test("geonlee");

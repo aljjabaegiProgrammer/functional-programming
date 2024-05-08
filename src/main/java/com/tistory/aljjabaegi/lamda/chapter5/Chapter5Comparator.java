@@ -1,4 +1,4 @@
-package com.tistory.aljjabaegi.lamda.chapter6;
+package com.tistory.aljjabaegi.lamda.chapter5;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -10,7 +10,7 @@ import java.util.List;
  * @author GEONLEE
  * @since 2024-05-08
  */
-public class Chapter6Comparator {
+public class Chapter5Comparator {
     public static void main(String[] args) {
         List<Integer> numberList = new java.util.ArrayList<>(List.of(1, 5, 2, 6, 7, 2, 3, 4));
 
