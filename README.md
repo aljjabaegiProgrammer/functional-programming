@@ -33,4 +33,4 @@
 - single parameter 의 경우 괄호 생략
 - 바로 리턴하는 경우 중괄호 생략
 
-## max, min, count, findAny, findFirst, allMatch, anyMatch, reduce, Collectors, To map, group by, partition by, forEach, summary, parallel stream
+## max, min, count, findAny, findFirst, allMatch, anyMatch, reduce, Collectors, ToMap, group by, partition by, forEach, summary, parallel stream
