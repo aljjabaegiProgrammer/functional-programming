@@ -35,6 +35,6 @@
 
 ## max, min, count, findAny, findFirst, allMatch, anyMatch, forEach (IntStream)
 
-## toList, toSet, toMap, reduce, Collectors, groupBy, partitionBy
+## toList, toSet, toMap, reduce, groupBy, partitionBy
 
 ## parallelStream
