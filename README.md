@@ -38,3 +38,9 @@
 ## toList, toSet, toMap, reduce, groupBy, partitionBy
 
 ## parallelStream
+
+## Scope Closure Curry
+
+## Lazy Evaluation edited
+
+## Function Composition
