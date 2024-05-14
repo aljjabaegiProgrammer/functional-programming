@@ -41,6 +41,7 @@
 
 ## Scope Closure Curry
 
-## Lazy Evaluation edited
+## Lazy Evaluation
 
 ## Function Composition
+- compose, andThen
